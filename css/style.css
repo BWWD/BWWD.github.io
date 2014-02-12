@@ -44,6 +44,10 @@ p {
 	color:#a1a1a1;
 }
 
+.strike{
+	text-decoration:line-through;
+}
+
 .even{
 	background-color:#e3dfcc;
 }
