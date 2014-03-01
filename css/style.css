@@ -597,11 +597,15 @@ margin:0 auto;
 
 #footmiddle{
 	background-color:#EDEFF4;
-	width:280px;
+	width:330px;
 	height:425px;
 	margin-left:18px;
 	margin-right:18px;
 	min-width:280px;
+}
+
+#footmiddle p{
+	font-size:0.8em;
 }
 
 #footright{
